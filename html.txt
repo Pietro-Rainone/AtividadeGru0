@@ -3,7 +3,7 @@
 <title>Página</title>
 </head>
 <body>
-<h1>pega golero</h1>
-<h2>Se não for rígido não sai nada</h2>
+<h1>hey hey amigos!!!</h1>
+<h2>toma salve</h2>
 </body>
 </html>
